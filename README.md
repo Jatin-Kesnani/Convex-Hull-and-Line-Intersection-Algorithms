@@ -11,7 +11,7 @@ Each algorithm features:
 - Animated GIF demonstrations
 - Multiple input methods (GUI plotting and random generation)
 
-## Architecture
+## System Diagram
 ![System Diagram]("system diagram.png")
 
 ## Algorithms Implemented
