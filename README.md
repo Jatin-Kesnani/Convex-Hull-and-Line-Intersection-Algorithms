@@ -12,7 +12,7 @@ Each algorithm features:
 - Multiple input methods (GUI plotting and random generation)
 
 ## Architecture
-![System Diagram](system diagram.png)
+![System Diagram]("system diagram.png")
 
 ## Algorithms Implemented
 
